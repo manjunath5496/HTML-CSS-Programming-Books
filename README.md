@@ -61,7 +61,11 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/HTML-CSS-Programming-Books/blob/master/hcss(38).pdf" style="text-decoration:none;">Designing with CSS Grid Layout</a></b></li>
 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/HTML-CSS-Programming-Books/blob/master/hcss(39).pdf" style="text-decoration:none;">HTML, XHTML, and CSS All-in-One For Dummies</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/HTML-CSS-Programming-Books/blob/master/hcss(40).pdf" style="text-decoration:none;">Pro HTML5 and CSS3 Design Patterns</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/HTML-CSS-Programming-Books/blob/master/hcss(41).pdf" style="text-decoration:none;">The CSS3 Anthology: Take Your Sites to New Heights</a></b></li>
 
 
 
