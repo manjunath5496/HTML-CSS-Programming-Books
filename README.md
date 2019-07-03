@@ -49,6 +49,18 @@
 
    <li><b><a target="_blank" href="https://github.com/manjunath5496/HTML-CSS-Programming-Books/blob/master/hcss(32).pdf" style="text-decoration:none;">The Essential Guide to CSS and HTML Web Design</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/HTML-CSS-Programming-Books/blob/master/hcss(33).pdf" style="text-decoration:none;">The book of CSS3 : a developer's guide to the future of web design </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/HTML-CSS-Programming-Books/blob/master/hcss(34).pdf" style="text-decoration:none;">Web Standards Solutions: The Markup and Style Handbook</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/HTML-CSS-Programming-Books/blob/master/hcss(35).pdf" style="text-decoration:none;">Stylin' with CSS: A Designer's Guide</a></b></li>
+
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/HTML-CSS-Programming-Books/blob/master/hcss(36).pdf" style="text-decoration:none;">CSS Cookbook</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/HTML-CSS-Programming-Books/blob/master/hcss(37).pdf" style="text-decoration:none;">CSS Secrets: Better Solutions to Everyday Web Design Problems</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/HTML-CSS-Programming-Books/blob/master/hcss(38).pdf" style="text-decoration:none;">Designing with CSS Grid Layout</a></b></li>
+
 
 
 
